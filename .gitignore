@@ -1,0 +1,7 @@
+# Idea
+.idea
+*.idl
+
+# Gradle
+.gradle
+build
